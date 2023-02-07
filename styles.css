@@ -4,6 +4,12 @@ body {
     margin: 0;
     background-color: #151515;
 }
+
+.all-container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
 #logo {
     margin: 15px auto;
     display: block;
